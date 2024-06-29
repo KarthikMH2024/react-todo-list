@@ -68,7 +68,7 @@ The project structure is organized as follows:
 - CSS for styling
 
 ## Project Demo 
- Open []((https://awesomereactjstodos.netlify.app/)) to view it in the browser.
+ Click [here]((https://awesomereactjstodos.netlify.app/)) to view it in the browser.
 
 
 ## License
