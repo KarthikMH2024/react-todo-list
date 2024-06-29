@@ -67,9 +67,9 @@ The project structure is organized as follows:
 - useState Hook for managing state
 - CSS for styling
 
-## Contributing
+## Project Demo 
+ Open []((https://awesomereactjstodos.netlify.app/)) to view it in the browser.
 
-Contributions are welcome. If you have any suggestions, improvements, or issues, please create an issue or submit a pull request.
 
 ## License
 
