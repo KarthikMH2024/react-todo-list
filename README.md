@@ -19,6 +19,11 @@ A simple todo list application built using React, allowing users to manage their
 - **Add Todo**: Enter new tasks and add them to the list.
 - **Delete Todo**: Remove tasks that are completed or no longer needed.
 - **Edit Todo**: Modify existing tasks directly from the list.
+ 
+## Project Demo
+
+Click [here](https://awesomereactjstodos.netlify.app/) to view the application demo in the browser.
+
 
 ## Getting Started
 
@@ -67,8 +72,6 @@ The project structure is organized as follows:
 - useState Hook for managing state
 - CSS for styling
 
-## Project Demo 
- Click [here]((https://awesomereactjstodos.netlify.app/)) to view it in the browser.
 
 
 ## License
